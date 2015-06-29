@@ -1,0 +1,26 @@
+index:
+  home: 'home'
+  search: 'Zoeken'
+  archive: 'Archief'
+  category: 'Categorie'
+  uncategorized: 'Niet gecategoriseerd'
+  tag: 'tag'
+nav:
+  next: 'Volgende'
+  prev: 'Vorige'
+widget:
+  recents: 'Recent'
+  archives: 'Archief'
+  categories: 'Categorieën'
+  links: 'links'
+  tags: 'tags'
+  tag_cloud: 'tag cloud'
+article:
+  comments: 'Commentaar'
+  share: 'Share'
+profile:
+  follow: 'FOLLOW'
+  post: 'post'
+  tag: 'tag'
+  posts: 'posts'
+  tags: 'tags'

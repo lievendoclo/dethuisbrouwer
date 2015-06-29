@@ -1,0 +1,36 @@
+# Header
+menu:
+  Home: /
+  Archief: /archives
+
+# Content
+excerpt_link: Lees meer
+fancybox: true
+
+# Profile
+profile: true # whether to show profile bar
+
+# Sidebar
+sidebar: right # set to false if you don't want a sidebar
+widgets:
+- recent_posts
+- category
+- tag
+- tagcloud
+- archive
+thumbnail: false
+
+# Contacts
+contacts:
+
+# Links
+links:
+  Hexo: http://hexo.io
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.png
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
