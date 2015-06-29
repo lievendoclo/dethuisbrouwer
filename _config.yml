@@ -15,8 +15,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.dethuisbrouwer.be
-root: /
+url: http://lievendoclo.github.io/dethuisbrouwer
+root: /dethuisbrouwer/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -78,5 +78,5 @@ theme: icarus
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/ppoffice/hexo-theme-icarus.git
+  repository: git@github.com:lievendoclo/dethuisbrouwer.git
   branch: gh-pages
